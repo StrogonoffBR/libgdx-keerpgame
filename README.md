@@ -8,6 +8,8 @@ Enjoy.
 
 # Controls
 
+R - Reset game world
+
 Cube controls:
 WASD - Control selected 
 
