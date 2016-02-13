@@ -7,15 +7,21 @@ Enjoy.
 ![alt tag](http://i.imgur.com/QVwgftt.png)
 
 # Controls
+
 Cube controls:
-WASD - Control selected sprite
+WASD - Control selected 
+
 SPACE - Change selected sprite
 
 Camera controls:
-ENTER - Follow selected sprite
+ENTER - Follow selected 
+
 ARROW KEYS - Move the camera (don't work if you turned follow on)
+
 <> - Control camera
+
 SHIFT_LEFT - While pressed makes zoom faster
+
 SHIFT_RIGHT - While pressed makes camera move faster
 
 # Other
